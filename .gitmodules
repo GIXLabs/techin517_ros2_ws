@@ -20,3 +20,6 @@
 [submodule "src/yolo_ros"]
 	path = src/yolo_ros
 	url = https://github.com/mgonzs13/yolo_ros.git
+[submodule "src/soa_ros2/feetech_ros2_driver"]
+	path = src/soa_ros2/feetech_ros2_driver
+	url = https://github.com/JafarAbdi/feetech_ros2_driver.git
