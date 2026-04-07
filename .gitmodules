@@ -26,3 +26,6 @@
 [submodule "src/ros2_handeye_calibration"]
 	path = src/ros2_handeye_calibration
 	url = https://github.com/GIXLabs/ros2_handeye_calibration.git
+[submodule "src/aruco_tracker_ros2"]
+	path = src/aruco_tracker_ros2
+	url = https://github.com/GIXLabs/aruco_tracker_ros2.git
